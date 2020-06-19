@@ -13,17 +13,17 @@ h1 {
 
 div#first {
 
-    background-color: rosybrown;
+    background-color:red
 }
 
 div#second {
-    background-color: skyblue;
+    background-color: yellow;
 }
 
 div#third {
 
-    background-color: saddlebrown;
-    color: white;
+    background-color: brown;
+    color: purple;
 }
 
 
@@ -46,7 +46,7 @@ p {
 
 .module {
     margin: 10px 10px 10px 10px;
-    border: 1px black solid;
+    border: 1px solid black;
     background-color: rgb(167, 157, 157);
     position: relative;
 }
